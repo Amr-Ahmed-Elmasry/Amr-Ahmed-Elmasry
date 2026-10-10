@@ -43,6 +43,6 @@ Building reliable software, experimenting with intelligent systems, and bridging
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: http://www.linkedin.com/in/amr-ahmed-elmasry-466316297
+- Email: amrelmasryy14@gmail.com
 - GitHub: [@Amr-Ahmed-Elmasry](https://github.com/Amr-Ahmed-Elmasry)
